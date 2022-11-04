@@ -1,0 +1,24 @@
+.page_center {
+  display: grid !important;
+  place-items: center !important;
+  min-height: 100vh !important;
+}
+
+.cursor_pointer {
+  cursor: pointer !important;
+}
+
+.story_title {
+  font-size: large !important;
+}
+
+.story_subtitle {
+  font-size: small !important;
+}
+
+.text_ring {
+  border: 3px solid #666 !important;
+  color: #666 !important;
+  text-align: center !important;
+  font: 25px Arial, sans-serif !important;
+}
